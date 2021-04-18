@@ -1,0 +1,392 @@
+html, body {
+    background-color: #010202;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    position: absolute;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 16px;
+    padding-left: 380px;
+}
+
+.nav li {
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.nav li a {
+    color: #fffff2;
+    padding: 0 25px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    transition: 0.3s;
+    color: #e4b363;
+}
+
+.header {
+    background: url("https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    height: 587px;
+    font-family: 'Roboto', sans-serif;
+    overlow: hidden;
+}
+
+.header .container {
+    position: relative;
+    top: 230px;
+    left: 140px;
+}
+
+.header h1 {
+    color: #fffff2;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.header p {
+    color: #fffff2;
+    font-size: 22px;
+    margin-top: 0;
+}
+
+.about {
+    margin: 64px;
+    display: inline-block;
+    overlow: hidden;
+    padding: 100px;
+}
+
+.about .my-photo {
+    float: left;
+    padding-left: 50px;
+}
+
+.about .container{
+   overlow: hidden;
+    padding-left: 400px;
+    padding-top: 50px;
+}
+
+.about img {
+    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+}
+
+.about h2 {
+    color: #e4b363;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.about p {
+    color: #fffff2;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 27px;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.academic-progress {
+    background-color: #162127;
+    background-size: cover;
+    display: inline-block;
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    overlow: hidden;
+}
+
+.academic-progress h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #fffff2;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 110px;
+    padding-bottom: 30px;
+}
+
+.academic-progress .table1 {
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 130px;
+}
+
+.academic-progress .table2 {
+    float: left;
+    padding: 20px 140px 60px 186px;
+}
+
+.academic-progress table, th, td{
+    border-collapse: collapse;
+    border-bottom: 1px solid #fffff2;
+}
+
+.academic-progress th, td{
+    padding: 8px;
+    font-size: 18px;
+}
+
+.academic-progress th{
+    font-family: 'Roboto', sans-serif;
+    color: #e4b363;
+    text-align: center;
+}
+
+.academic-progress td{
+    font-family: 'Open Sans', sans-serif;
+    color: #fffff2;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.contacts {
+    margin: 0;
+    background-color: #060a09;
+    height: 300px;
+}
+
+.contacts h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #fffff2;
+    margin: 0;
+
+}
+html, body {
+    background-color: #010202;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    position: absolute;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 16px;
+    padding-left: 380px;
+}
+
+.nav li {
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.nav li a {
+    color: #fffff2;
+    padding: 0 25px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    transition: 0.3s;
+    color: #e4b363;
+}
+
+.header {
+    background: url("https://images.unsplash.com/photo-1476842634003-7dcca8f832de?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+    height: 587px;
+    font-family: 'Roboto', sans-serif;
+    overlow: hidden;
+}
+
+.header .container {
+    position: relative;
+    top: 230px;
+    left: 140px;
+}
+
+.header h1 {
+    color: #fffff2;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.header p {
+    color: #fffff2;
+    font-size: 22px;
+    margin-top: 0;
+}
+
+.about {
+    margin: 64px;
+    display: inline-block;
+    overlow: hidden;
+    padding: 100px;
+}
+
+.about .my-photo {
+    float: left;
+    padding-left: 50px;
+}
+
+.about .container{
+   overlow: hidden;
+    padding-left: 400px;
+    padding-top: 50px;
+}
+
+.about img {
+    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+}
+
+.about h2 {
+    color: #e4b363;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.about p {
+    color: #fffff2;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 27px;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.academic-progress {
+    background-color: #162127;
+    background-size: cover;
+    display: inline-block;
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    overlow: hidden;
+}
+
+.academic-progress h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #fffff2;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 110px;
+    padding-bottom: 30px;
+}
+
+.academic-progress .table1 {
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 130px;
+}
+
+.academic-progress .table2 {
+    float: left;
+    padding: 20px 140px 60px 186px;
+}
+
+.academic-progress table, th, td{
+    border-collapse: collapse;
+    border-bottom: 1px solid #fffff2;
+}
+
+.academic-progress th, td{
+    padding: 8px;
+    font-size: 18px;
+}
+
+.academic-progress th{
+    font-family: 'Roboto', sans-serif;
+    color: #e4b363;
+    text-align: center;
+}
+
+.academic-progress td{
+    font-family: 'Open Sans', sans-serif;
+    color: #fffff2;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.contacts {
+    margin: 0;
+    background-color: #060a09;
+    height: 300px;
+}
+
+.contacts h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #fffff2;
+    margin: 0;
+    padding: 30px;
+}
+
+.contacts ul {
+    list-style-type: none;
+    padding-top: 20px;
+}
+
+.contacts li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.contacts li a {
+    color: #fffff2;
+    text-decoration: none;
+}
+
+.contacts li a:hover {
+    color: #e4b363;
+}
+
+.contacts img {
+    position: relative;
+    top: 5px;
+    height: 25px;
+    padding-right: 10px;
+}
+
+.contacts form {
+    position: relative;
+    left: 400px;
+    bottom: 139px;
+}
+
+input[type=text] {
+    font-family: 'Open Sans', sans-serif;
+    color: #162127;
+    display: block;
+    border: 2px solid #fffff2;
+    padding: 12px 20px;
+}
+
+input[type=submit] {
+    font-family: 'Open Sans', sans-serif;
+    color: #fffff2;
+    background-color: #e4b363;
+    border: none;
+    width: 192.5px;
+    padding: 16px 25px;
+}
+
+
